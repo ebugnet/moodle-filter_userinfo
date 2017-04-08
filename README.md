@@ -4,6 +4,7 @@
 
 One step to use moodle for serious gaming : text personnalisation.
 More info for using moodle in gammification (in french) : https://eric.bugnet.fr/gamifier-moodle/
+
 This code add filter for LMS Moodle to let Moodle adapt text with personnal user information.
 
 ## Install
